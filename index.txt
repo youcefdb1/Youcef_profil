@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Youcef</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="card">
+  <img src="https://via.placeholder.com/120" alt="avatar">
+  <h1>Youcef</h1>
+  <p>Web Creator</p>
+
+  <a href="#" class="btn">Instagram</a>
+  <a href="#" class="btn">TikTok</a>
+  <a href="#" class="btn">Discord</a>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
